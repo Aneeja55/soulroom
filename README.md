@@ -99,12 +99,9 @@ The implementation of this live chat application begins with setting up the Supa
 
 
 # Screenshots 
-![landing page](https://github.com/user-attachments/assets/02543528-f389-4cbd-8b48-d6dbb6de228c)
-![signup](https://github.com/user-attachments/assets/23eba463-26f4-4bfa-a0fa-20af0f4bc3d7)
-![login](https://github.com/user-attachments/assets/82a57f96-c1a1-44eb-8363-372fcbfbffda)
-![chat](https://github.com/user-attachments/assets/7a536f85-baf7-4de5-a8e9-3a0e19588f8f)
-![thoughts sharing](https://github.com/user-attachments/assets/e14149d7-ee05-4b34-a664-1cb95369042c)
-![plant](https://github.com/user-attachments/assets/97f416e5-b4c2-47d8-adf2-1656bba3a1ab)
+![landing page](https://github.com/user-attachments/assets/d0bc226b-f6f9-4752-a943-a336af8b2fb3)
+![login](https://github.com/user-attachments/assets/f2f8ca06-dc60-4c4a-aeb2-1fcccf6efcc4)
+
 
 
 Mobile Interface
