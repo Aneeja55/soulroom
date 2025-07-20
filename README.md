@@ -99,8 +99,17 @@ The implementation of this live chat application begins with setting up the Supa
 
 
 # Screenshots 
-![landing page](https://github.com/user-attachments/assets/d0bc226b-f6f9-4752-a943-a336af8b2fb3)
-![login](https://github.com/user-attachments/assets/f2f8ca06-dc60-4c4a-aeb2-1fcccf6efcc4)
+![landing page](https://github.com/user-attachments/assets/c31131ba-f92c-4e79-8a90-08cebfe7e963)
+![login](https://github.com/user-attachments/assets/0c7e9f63-be25-4420-af72-0dc6ebc9d9aa)
+![chat](https://github.com/user-attachments/assets/a186638f-1995-40a3-adde-14d3fb9e9147)
+![landing page](https://github.com/user-attachments/assets/63bf25b9-9dc6-497a-b78e-b5ec984a047a)
+![login](https://github.com/user-attachments/assets/0da08e69-df72-4445-9389-a48970b53b5f)
+![mobile create room](https://github.com/user-attachments/assets/0c98cbbc-9efd-4b60-85a6-167d8784e560)
+![mobile landing page](https://github.com/user-attachments/assets/7dfa4af5-432b-48be-ac5f-9bdac5901204)
+![mobile login](https://github.com/user-attachments/assets/ad421568-8aae-4511-acfb-4a307abc632d)
+![mobile roomcode creation](https://github.com/user-attachments/assets/c7418369-3320-4546-bb23-98d899d2d59b)
+
+
 
 
 
