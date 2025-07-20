@@ -107,6 +107,15 @@ The implementation of this live chat application begins with setting up the Supa
 ![plant](https://github.com/user-attachments/assets/97f416e5-b4c2-47d8-adf2-1656bba3a1ab)
 
 
+Mobile Interface
+![mobile landing page](https://github.com/user-attachments/assets/071b4fa6-c204-4fcb-b288-818fed303efd)
+
+![mobile login](https://github.com/user-attachments/assets/ca8de394-c2bc-44f7-bbcc-009299e3b283)
+![mobile create room](https://github.com/user-attachments/assets/d2731491-c7f2-48a6-b32e-172e990532f3)
+![mobile roomcode creation](https://github.com/user-attachments/assets/2aa061b0-dd5c-47bb-bf1c-76fa9e0c72d4)
+
+
+
 
 ### Project Demo
 
